@@ -1,1 +1,1 @@
-$use this to bot your server with 10K members
+# do not take any files out of folder

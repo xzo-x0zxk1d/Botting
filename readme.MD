@@ -36,3 +36,7 @@ To enable Developer Mode in Discord:
 4. Right‑click any server, user, or channel → **Copy ID**.
 
 ---
+
+
+
+important notice if fails its because you're not logged in your discord WEB broweser
